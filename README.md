@@ -88,7 +88,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://i.ibb.co/rRWCTq1m/githubimg.png" />
+<img align="right" width="88" src="https://ibb.co/6JGTCPbZ" />
 
 <p>&emsp;&emsp;Hi, I am Arnab Pati. I love programming, photography, reading, and traveling.</p>
 <p>&emsp;&emsp;I am passionate about computer science and IT, aiming to become an excellent developer.</p>
