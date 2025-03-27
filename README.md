@@ -1,5 +1,5 @@
 <div align="left">
-  <img height="300" src="https://i.ibb.co/Y7Qc7VGG/a-modern-clean-developer-banner-for-a-pe-tcn-la-F5-R7e-Kb-GXIcp-BDZw-PPAp-Tm5-KQKG4hi-OI5qvl-Q.jpg"  />
+  <img height="300" width="24" src="https://i.ibb.co/Y7Qc7VGG/a-modern-clean-developer-banner-for-a-pe-tcn-la-F5-R7e-Kb-GXIcp-BDZw-PPAp-Tm5-KQKG4hi-OI5qvl-Q.jpg"  />
 </div>
 
 ###
