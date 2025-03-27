@@ -74,7 +74,7 @@
     <a href="https://www.instagram.com/arnabpati_/"><img src="https://img.shields.io/badge/Instagram-Instagram-ee2a7b" /></a>&emsp;
 
     
-
+https://www.instagram.com/arnabpati_/
     
 
 
