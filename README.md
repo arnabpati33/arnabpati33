@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Arnab and I'm a student from ....</h2>
+<h2 align="left">Hi 👋! My name is Arnab and I'm a student .</h2>
 
 ###
 
@@ -45,8 +45,6 @@
 
 <img src="https://raw.githubusercontent.com/arnabpati33/arnabpati33/output/snake.svg" alt="Snake animation" />
 
-###
-name: Generate snake animation
 
 
        
